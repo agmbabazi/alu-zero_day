@@ -1,2 +1,1 @@
-Coding is sco cool
-
+Basics on git and github
